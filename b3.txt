@@ -1,1 +1,7 @@
 SDXXXXXXX  哇哇哇
+<<<<<<< Updated upstream
+=======
+ssssssss
+
+aaaaa =======> master
+>>>>>>> Stashed changes
